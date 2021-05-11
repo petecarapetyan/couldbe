@@ -1,4 +1,6 @@
-# Laborum
+# Lor
+
+## Lorem Laborum
 
 <img class="bordered" src="/_merged_assets/_static/images/bulksplash-bencollins-u2e5yxz_qQo.jpg" alt="bulksplash-bencollins-u2e5yxz_qQo.jpg" />
 
