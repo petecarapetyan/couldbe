@@ -24,7 +24,7 @@ module.exports = function () {
       {
         name: 'Strava',
         url: 'https://www.strava.com/athletes/2901957',
-      },
+      }
     ],
     gitSiteUrl: 'https://github.com/petecarapetyan/fins-rocket-themes',
     gitBranch: 'main',
