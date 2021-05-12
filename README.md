@@ -1,6 +1,6 @@
 # replitza demo site
 
-This repo is a personalized/customized version of [this fins-wikipedia-theme](https://github.com/petecarapetyan/fins-rocket-themes/blob/main/not-wikipedia/src/docs/) code.
+This repo is a personalized/customized version of [this fins-wired-theme](https://github.com/petecarapetyan/fins-rocket-themes/blob/main/not-wired/src/docs/) code.
 
 ## For more information on fins-rocket-themes
 
