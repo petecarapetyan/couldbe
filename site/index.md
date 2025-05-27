@@ -1,5 +1,5 @@
 ---
-title: couldbe
+title: Home
 layout: layout-home
 eleventyNavigation:
   key: /
