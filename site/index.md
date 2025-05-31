@@ -1,14 +1,12 @@
 ---
 title: Home
 layout: layout-home
-eleventyNavigation:
-  key: /
-  title: Home
-  order: 999
 --- 
 # couldbe.net
 
-Let's delve into the vast and often unpredictable territory of “what could be?” It’s a question that’s captivated philosophers, artists, and dreamers for centuries. At its core, it’s about exploring the potential, the possibilities, and the sheer wonder of existence. It’s less about a definitive answer and more about a continuous process of imagining. 
+What could be?
+
+It’s a question that’s captivated philosophers, artists, and dreamers for centuries. At its core, it’s about exploring the potential, the possibilities, and the sheer wonder of existence. It’s less about a definitive answer and more about a continuous process of imagining. 
 
 Here’s a breakdown of some areas where “what could be?” might lead us:
 
